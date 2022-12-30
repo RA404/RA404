@@ -29,8 +29,8 @@
 - Skype: Repin404
 
 ## Languages
-- English (B2, IELTS 6.0 overall and 7.0 for speaking)
-- Russian - native
+- English (B2)
+- Russian (native)
 
 <!---
 RA404/RA404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
