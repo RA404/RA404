@@ -14,7 +14,7 @@
 
 ## My stack:
 ### Frontend:
-- JavaScript, HTML, CSS, ReactJS, BEM, npm, StyledComponent, Bootstrap, TailwindCSS
+- JavaScript, React, Material-UI, Nivo, HTML, CSS, BEM, npm, StyledComponent, Bootstrap, TailwindCSS
 ### Backend:
 - Python, Django, DRF, NodeJS, npm, ExpressJS, REST
 ### Infrastructure and DB:
