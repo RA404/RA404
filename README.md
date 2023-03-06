@@ -14,14 +14,14 @@
 
 ## My stack:
 ### Frontend:
-- JavaScript, React, Material-UI, Nivo, HTML, CSS, BEM, npm, StyledComponent, Bootstrap, TailwindCSS
+- JavaScript, React, TypeScript, MobX, Material-UI, Nivo, HTML, CSS, StyledComponent, Bootstrap, TailwindCSS
 ### Backend:
-- Python, Django, DRF, NodeJS, npm, ExpressJS, REST
+- NodeJS, ExpressJS, Python, Django, DRF, npm, REST
 ### Infrastructure and DB:
 - Docker, Git, GitHub Actions, CI/CD, nginx, WebPack, MongoDB, MySQL, MS SQL, Postgresql
 
 ## Open to work:
-### I am looking for a remote job as a full-stack developer in a product company.
+### I am looking for a remote job as a full-stack developer.
 
 ## 📫 How to reach me:
 - Email: Repin404@gmail.com
