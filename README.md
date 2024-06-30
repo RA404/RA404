@@ -6,7 +6,7 @@
 ## Summary
 - 15+ years of general programming experience
 - 2+ years of web development experience using technology stack like JavaScript, React, Redux, etc.
-- 1+ year of backend development experience using technology stack like Node.js, Python, Django, etc.
+- 2+ year of backend development experience using technology stack like Node.js, Python, Django, etc.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RA404)](https://github.com/RA404/github-readme-stats)
