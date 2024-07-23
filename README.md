@@ -14,11 +14,11 @@
 
 ## My stack:
 ### Frontend:
-- JavaScript, React, TypeScript, MobX, Material-UI, Nivo, HTML, CSS, StyledComponent, Bootstrap, TailwindCSS
+- JavaScript, React, TypeScript, MobX
 ### Backend:
-- NodeJS, ExpressJS, Python, Django, DRF, npm, REST
+- NodeJS, ExpressJS, Python, Django
 ### Infrastructure and DB:
-- Docker, Git, GitHub Actions, CI/CD, nginx, WebPack, MongoDB, MySQL, MS SQL, Postgresql
+- Postgresql, MS SQL, MongoDB, Docker, Git, CI/CD, nginx
 
 ## Open to work:
 ### I am looking for a remote job as a full-stack developer.
