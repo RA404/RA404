@@ -1,12 +1,9 @@
 # 👋 Hi, I’m Repin Andrei. I'm FullStack Developer.
 
-## My portfolio web-site:
-- [https://repin-andrei.com/](https://repin-andrei.com/)
-
 ## Summary
 - 15+ years of general programming experience
-- 3+ years of web development experience using technology stack like JavaScript, React, Redux, etc.
-- 3+ year of backend development experience using technology stack like Node.js, Python, Django, etc.
+- 3+ years of web development experience using technology stack like JavaScript, TypeScript, React, Redux, etc.
+- 3+ year of backend development experience using technology stack like Node.js, Express, Fastify, Python, Django, etc.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RA404)](https://github.com/RA404/github-readme-stats)
@@ -14,9 +11,9 @@
 
 ## My stack:
 ### Frontend:
-- JavaScript, React, TypeScript, MobX
+- JavaScript, TypeScript, React, MobX
 ### Backend:
-- NodeJS, ExpressJS, Python, Django
+- NodeJS, ExpressJS, Fastify, Python, Django
 ### Infrastructure and DB:
 - Postgresql, MS SQL, MongoDB, Docker, Git, CI/CD, nginx
 
@@ -26,7 +23,6 @@
 ## 📫 How to reach me:
 - Email: Repin404@gmail.com
 - Telegram: @Repin404
-- Skype: Repin404
 
 ## Languages
 - English (B2)
